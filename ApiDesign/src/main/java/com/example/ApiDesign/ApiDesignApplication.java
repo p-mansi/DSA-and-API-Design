@@ -8,7 +8,7 @@ public class ApiDesignApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiDesignApplication.class, args);
-		System.out.println("Hello HackStack");
+		System.out.println("Hello HawkStack");
 	}
 
 }
